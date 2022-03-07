@@ -1,0 +1,19 @@
+.bold {
+    font-weight: 700;
+}
+
+.code {
+    background: #EEEEEE;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.rendered-input {
+    width: 40%  ;
+}
